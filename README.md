@@ -1,2 +1,2 @@
-# MindCOREdocs
-This repository contains the files that generate documentation on ReadTheDocs for the MindCORE Neuroimaging Facility at the University of Pennsylvania
+# MindCORE-general
+General repository for sharing code and data from the MindCORE Neuroimaging Facility at the University of Pennsylvania
